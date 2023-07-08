@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+link of project
+https://metaverse-madness-site.vercel.app/  
+
+
 First, run the development server:
 
 ```bash
