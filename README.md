@@ -1,7 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+I utilized Next.js, a popular React framework, to build the foundation of the website. Next.js allowed me to create a fast and optimized website with server-side rendering capabilities, ensuring a smooth user experience.
+Additionally, I leveraged Framer Motion, a motion library for React, to add captivating animations and effects to the website. By utilizing Framer Motion's easy-to-use API, I created visually appealing transitions, fades, and other dynamic elements that enhanced the overall user experience and made the website more engaging.
 
+Overall, the combination of Next.js, jQuery, and Framer Motion allowed me to create a website that is not only functional and user-friendly but also visually appealing and interactive.
 link of project
 https://metaverse-madness-site.vercel.app/  
 
